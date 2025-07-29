@@ -22,7 +22,7 @@ def view_contacts(contacts):
     else:
         print("Контактов нет.")
 
-#основная функция
+#основная функция.
 def main():
     contacts = {}
     while True:
